@@ -1,4 +1,5 @@
 //sth else
+	package ua.itea;
 import ua.itea.JavaCourse;
 
 public class MyCourse {
